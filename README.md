@@ -1,0 +1,35 @@
+# Data Scientist – Machine Learning Algorithms
+
+This repository showcases a curated collection of Machine Learning algorithms, systematically organized into Supervised and Unsupervised learning categories, each linked to its dedicated GitHub repository for in-depth exploration.
+
+---
+
+## Supervised Learning
+Supervised learning uses labeled data to train models for predictions. It is divided into two main types:
+
+### 1. Classification
+- Decision Trees – [Decision Tree Repo](https://github.com/YourUsername/DecisionTree)
+- Random Forest – [Random Forest Repo](https://github.com/YourUsername/RandomForest)
+- SVM (Support Vector Machines) – [SVM Repo](https://github.com/YourUsername/SVM)
+- KNN (K-Nearest Neighbors) – [KNN Repo](https://github.com/YourUsername/KNN)
+- Logistic Regression – [Logistic Regression Repo](https://github.com/YourUsername/LogisticRegression)
+- Naive Bayes – [Naive Bayes Repo](https://github.com/YourUsername/NaiveBayes)
+- Gradient Boosting – [Gradient Boosting Repo](https://github.com/YourUsername/GradientBoosting)
+
+---
+
+### 2. Regression
+- Linear Regression – [Linear Regression Repo](https://github.com/YourUsername/LinearRegression)
+- Ridge Regression – [Ridge Regression Repo](https://github.com/YourUsername/RidgeRegression)
+- Lasso Regression – [Lasso Regression Repo](https://github.com/YourUsername/LassoRegression)
+- Elastic Net Regression – [Elastic Net Repo](https://github.com/YourUsername/ElasticNet)
+
+---
+
+## Unsupervised Learning
+Unsupervised learning uses unlabeled data to find patterns and relationships.
+
+### 1. Clustering
+- K-Means – [K-Means Repo](https://github.com/YourUsername/KMeans)
+- Hierarchical Clustering – [Hierarchical Clustering Repo](https://github.com/YourUsername/HierarchicalClustering)
+- DBSCAN – [DBSCAN Repo](https://github.com/YourUsername/DBSCAN)
