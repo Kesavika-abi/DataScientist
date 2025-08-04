@@ -22,7 +22,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 - Linear Regression – [Linear Regression Repo](https://github.com/Kesavika-abi/Linear-Regression-Repo)
 - Ridge Regression – [Ridge Regression Repo](https://github.com/Kesavika-abi/Ridge-Regression-Repo)
 - Lasso Regression – [Lasso Regression Repo](https://github.com/Kesavika-abi/Lasso-Regression-Repo)
-- Elastic Net Regression – [Elastic Net Repo](https://github.com/Kesavika-abi/Elastic-Net-Repo(
+- Elastic Net Regression – [Elastic Net Repo](https://github.com/Kesavika-abi/Elastic-Net-Repo)
 
 ---
 
@@ -35,4 +35,4 @@ Unsupervised learning uses unlabeled data to find patterns and relationships.
 - DBSCAN – [DBSCAN Repo](https://github.com/YourUsername/DBSCAN)
 
 ### 2. Dimensionality Reduction
-- PCA (Principal Component Analysis) – [PCA Repo](https://github.com/YourUsername/PCA Repo)
+- PCA (Principal Component Analysis) – [PCA Repo](https://github.com/YourUsername/PCARepo)
