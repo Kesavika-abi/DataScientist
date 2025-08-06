@@ -35,4 +35,4 @@ Unsupervised learning uses unlabeled data to find patterns and relationships.
 - DBSCAN – [DBSCAN Repo](https://github.com/Kesavika-abi/DBSCAN-Repo)
 
 ### 2. Dimensionality Reduction
-- PCA (Principal Component Analysis) – [PCA Repo](https://github.com/YourUsername/PCARepo)
+- PCA (Principal Component Analysis) – [PCA Repo](https://github.com/Kesavika-abi/PCA-Repo)
